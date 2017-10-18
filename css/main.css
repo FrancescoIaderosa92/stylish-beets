@@ -8,12 +8,15 @@ html {
 h1 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
+  font-size: 1.125rem;
 }
 
 a {
   color: #8f2440;
-  font-size: 1.125rem;
+  font-size: .8rem;
   text-decoration: none;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
 }
 
 a:hover {

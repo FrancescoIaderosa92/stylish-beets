@@ -10,7 +10,6 @@ h1 {
 
 a {
   color: #8f2440;
-  text-decoration: underline;
   font-size: 1.125rem;
 }
 
@@ -25,6 +24,9 @@ nav ol {
 
 h2 {
   color: #3f1622;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-decoration: none;
 }
 
 blockquote p {

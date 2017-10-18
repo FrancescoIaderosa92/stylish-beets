@@ -1,16 +1,19 @@
 html {
   background-color: #c9b5ab;
   color: #222;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
+  font-weight: normal;
 }
 
 h1 {
+  font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
 
 a {
   color: #8f2440;
   font-size: 1.125rem;
+  text-decoration: none;
 }
 
 a:hover {
@@ -20,6 +23,7 @@ a:hover {
 
 nav ol {
   list-style-type: none;
+  text-decoration: none;
 }
 
 h2 {
@@ -36,6 +40,7 @@ blockquote p {
 
 dl {
   font-weight: bold;
+  font-size: 1.125rem;
 }
 
 figure + p {
@@ -44,9 +49,14 @@ figure + p {
 
 ul {
   list-style-type: circle;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 ol {
   list-style-type: lower-greek;
+  font-size: 1.125rem;
+}
+
+img {
+  width: 100%;
 }

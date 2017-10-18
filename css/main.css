@@ -6,7 +6,7 @@ html {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
@@ -45,6 +45,7 @@ dl {
 
 figure + p {
   font-weight: bold;
+  font-family: "PT Serif", serif;
 }
 
 ul {
